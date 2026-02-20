@@ -9,6 +9,10 @@ This project helps crypto users to:
 ✅ Calculate portfolio value
 ✅ Use a clean and modern terminal interface
 
+
+💰 Trac Address : 
+trac1eqavrs2qsuv6zdwmvc3k2nj9vm2l030qhpaescyv87dpkd3d0zvqk468hp
+
 📸 Proof of Successful Execution
 Below is a screenshot showing the project successfully running inside Termux:
 ![Deskripsi Gambar](screenshot.png)
@@ -79,5 +83,3 @@ The application sends a request to CoinGecko
 Data is processed
 Results are displayed in a clean terminal interface using Rich
 
-💰 Trac Address : 
-trac1eqavrs2qsuv6zdwmvc3k2nj9vm2l030qhpaescyv87dpkd3d0zvqk468hp
