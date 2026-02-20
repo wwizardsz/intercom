@@ -11,6 +11,8 @@ This project helps crypto users to:
 
 📸 Proof of Successful Execution
 Below is a screenshot showing the project successfully running inside Termux:
+![Deskripsi Gambar](images/screenshot.png)
+
 
 🚀 Main Features
 
